@@ -1,0 +1,6 @@
+.display p {
+    margin: 0 0 4px;
+}
+.display p:last-of-type{
+    margin-bottom: 12px;
+}
